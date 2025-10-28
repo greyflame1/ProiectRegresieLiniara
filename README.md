@@ -1,5 +1,11 @@
-# ProiectRegresieLiniara  
-  Proiect realizat pentru cursul Identificarii sistemelor in cadrul facultatii de Automatica si Calculatoare din Cluj Napoca.Acesta a fost realizat cu ajutorul inca a 2 colegi.
+# Linear Regression
 
-  Pentru a testa codul, trebuie dat load fisierului iddata-12.mat. Acesta va afisa practic graficele datelor de identificare si validare,graficul celui mai bun model , el va gasi practic modelul care eroarea medie patratica cea mai mica si graficele erorilor medii patratice.
-  
+A MATLAB project that implements a **Linear Regression** model.  
+The script performs basic regression analysis, calculates model parameters, and displays the regression line and error.
+
+---
+
+## Usage
+
+1. Open the project folder in **MATLAB**  
+2. Load the dataset if required 
